@@ -1,0 +1,7 @@
+class newso
+{
+public static void main(String[] L)
+{
+System.out.println("hello");
+}
+}
